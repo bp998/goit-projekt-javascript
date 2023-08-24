@@ -1,21 +1,21 @@
 {
-  "name": "js-project-group-4",
+  "name": "goit-projekt-javascript",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://github.com/SandraKoch/js-project-group-4",
+  "homepage": "https://github.com/bp998/goit-projekt-javascript",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js-project-group-4/"
+    "build": "parcel build src/*.html --public-url /goit-projekt-javascript/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SandraKoch/js-project-group-4.git"
+    "url": "git+https://github.com/bp998/goit-projekt-javascript.git"
   },
   "keywords": [],
   "author": "Sandra Koch <sandraannakoch@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SandraKoch/js-project-group-4/issues"
+    "url": "https://github.com/bp998/goit-projekt-javascript/issues"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.3",
